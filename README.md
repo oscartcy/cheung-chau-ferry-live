@@ -1,2 +1,4 @@
 # cheung-chau-ferry-live
-Cheung Chau ferry live status for iOS Scriptable app + iOS widget
+Hong Kong, Cheung Chau ferry live status for iOS Scriptable app + iOS widget
+
+![demo](docs/img/demo.jpg)
